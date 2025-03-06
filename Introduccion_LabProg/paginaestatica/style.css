@@ -55,6 +55,7 @@ h1, h2, p {
 .verdepaisaje img,
 .maquinadesangre img,
 .civilizacion img {
+    width: 300px;
     margin: 10px;
     border-radius: 5px
 }
@@ -68,3 +69,4 @@ h1, h2, p {
 .civilizacion  {
     font-size: 25px;
 }
+
