@@ -1,0 +1,70 @@
+body{
+    background-image: url("fondo.jpg");
+    background-size: auto; 
+    background-repeat: repeat; 
+}
+
+section {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px; 
+    border-radius: 10px; 
+    color: white; 
+}
+
+h1, h2, p {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+    color: white;
+}
+
+#titulo{
+    font-size: 55px;
+}
+
+#intro{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.fundacion{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 5%;
+}
+.fundacion li{
+    list-style-type: none;
+    text-align: center;
+    font-size: 25px;
+}
+.fundacion img {
+    width: 150px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.introduccion{
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.chactuchac img,
+.ayayay img,
+.tercerarco img,
+.azul img,
+.verdepaisaje img,
+.maquinadesangre img,
+.civilizacion img {
+    margin: 10px;
+    border-radius: 5px
+}
+
+.chactuchac ,
+.ayayay ,
+.tercerarco ,
+.azul ,
+.verdepaisaje ,
+.maquinadesangre ,
+.civilizacion  {
+    font-size: 25px;
+}
